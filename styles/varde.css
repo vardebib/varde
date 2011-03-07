@@ -1,0 +1,16 @@
+/** layout.css overrides **/
+
+#site-name {
+    height: 30px;
+    margin: 0 17px 0 664px;
+    padding: 3px 0 0;
+    text-indent: -9999em;
+}
+
+#site-name a{
+  height:30px;
+  width:312px;
+  background: url(../images/logo.png) no-repeat scroll 0 0 transparent;
+  display: block;
+  overflow: hidden;
+} 
